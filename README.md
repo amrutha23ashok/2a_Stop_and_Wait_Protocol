@@ -45,4 +45,4 @@ while True:
 ![CN ex 2a](https://github.com/user-attachments/assets/33def1d8-0992-4b65-b6f6-899453ba5bcc)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
+Thus, python program to perform stop and wait protocol was successfully executed
